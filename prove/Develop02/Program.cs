@@ -1,6 +1,9 @@
 using System;
 using System.IO;
 
+// I added a "mood" along with every entry for the user to describe how they felt that day.
+// Of course, it too can be saved, loaded and viewed.
+
 class Program
 {
     static void Main(string[] args)
