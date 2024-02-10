@@ -1,0 +1,4 @@
+60
+SimpleGoal~~Simple goal test~~descri~~10~~True
+EternalGoal~~Eternal Goal Tets~~desc~~20
+ChecklistGoal~~Checklist Goal test~~desc~~30~~500~~3~~1
