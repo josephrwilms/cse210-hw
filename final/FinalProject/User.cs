@@ -13,7 +13,7 @@ public class User {
 
     }
 
-    public void AddIncome(Income income) {
+    public void AddIncome(Income i) {
 
     }
 
