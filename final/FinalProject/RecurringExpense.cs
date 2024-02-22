@@ -1,8 +1,6 @@
 public class RecurringExpense : Expense {
-    public RecurringExpense(double amount) : base (amount) {
-    }
-
-    public override string GetStringRepresentation() {
-        return "test";
+    private int _length;
+    public RecurringExpense(double amount, string name, int length) : base (amount, name) {
+        _length = length;
     }
 }

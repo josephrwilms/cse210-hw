@@ -1,8 +1,6 @@
 public class RecurringIncome : Income {
-    public RecurringIncome(double amount) : base (amount) {
-    }
-
-    public override string GetStringRepresentation() {
-        return "test";
+    private int _length;
+    public RecurringIncome(double amount, string name, int length) : base (amount, name) {
+        _length = length;
     }
 }

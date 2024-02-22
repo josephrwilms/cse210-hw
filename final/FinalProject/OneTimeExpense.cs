@@ -1,8 +1,4 @@
 public class OneTimeExpense : Expense {
-    public OneTimeExpense(double amount) : base (amount) {
-    }
-
-    public override string GetStringRepresentation() {
-        return "test";
+    public OneTimeExpense(double amount, string name) : base (amount, name) {
     }
 }

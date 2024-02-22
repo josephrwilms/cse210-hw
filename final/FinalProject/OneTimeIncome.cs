@@ -1,8 +1,4 @@
 public class OneTimeIncome : Income {
-    public OneTimeIncome(double amount) : base (amount) {
-    }
-
-    public override string GetStringRepresentation() {
-        return "test";
+    public OneTimeIncome(double amount, string name) : base (amount, name) {
     }
 }

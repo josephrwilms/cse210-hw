@@ -8,6 +8,10 @@ public class Asset {
         _name = n;
     }
 
+    public double GetAmount() {
+        return _amount;
+    }
+
     public string GetRepresentation() {
         return $"{_name}: {_amount}";
     }

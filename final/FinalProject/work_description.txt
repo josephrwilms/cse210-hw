@@ -1,0 +1,5 @@
+So far, I have been able to make all my classes and setup most of the methods and variables that I beleive I will need.
+
+I have also created the simple menu that shows how I intended for this app to work, even if the functionality is not programmed yet.
+
+Altogether this is the base building block that I will use to complete this project next week.
